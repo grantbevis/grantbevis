@@ -6,7 +6,7 @@
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28.svg?style=for-the-badge&logo=FreeBSD&logoColor=white)
-![CentOS]()
+![CentOS](https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000.svg?style=for-the-badge&logo=Red-Hat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
